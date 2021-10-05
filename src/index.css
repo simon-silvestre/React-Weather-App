@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'montseratt', sans-serif;
+  background-image: linear-gradient(62deg,#4f8ea7,#0d93ec);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100vh;
+}
+
+body.warm {
+  background-image: linear-gradient(62deg,#852a60,#af214a);
+}
