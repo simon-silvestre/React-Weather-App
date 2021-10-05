@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Calculator 👋</h1>
+<h1 align="center">Welcome to React WeatherApp 👋</h1>
 
 > Petite application météo réalisée lors de mon apprentissage de ReactJs
 
